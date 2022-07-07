@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HassanAfzal001
+- 👋 Hi, I’m Hassan Afzal
 - 👀 I’m interested in learning new technologies and researching the unknown..
 - 🌱 I’m currently WORKING WITH RedXSoft and Aethon (Software Companies)...
 - 💞️ I’m looking to collaborate on computer science related astronomy,physcis,chemistry and bio sciences projects. In short, I am looking for logical projects..
